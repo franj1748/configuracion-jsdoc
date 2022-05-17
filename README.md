@@ -57,7 +57,7 @@ npm run docs
 
 Se cambió el tema por defecto y se aplicó el tema `clean-jsdoc-theme`. Para aprender más sobre cómo modificarlo visita [esta página](https://www.npmjs.com/package/clean-jsdoc-theme).
 
-Aquí tienes una vista previa de la documentación de este proyecto: 
+Aquí tienes una vista previa de la documentación de este proyecto: https://franj1748.github.io/configuracion-jsdoc/
 
 !['vista_previa_doc'](https://accesoweb.online/images/code_objetos.png)
 
